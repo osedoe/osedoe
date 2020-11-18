@@ -1,18 +1,13 @@
-### Hi there 👋
+### Hola! My name is Ose 👋
 
-<!--
-**osedoe/osedoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🇮🇨 I'm a Guanche developer from Tenerife that currently works at @Nologis
+- 🇬🇧 I'm located somewhere between the Canaries and the UK
+- 🏗️ Most of my work is done with Typescript, React, Node and OpenLayers
+- 🌱 I’m currently learning Python, Data Structures and Algorithms
+- 💥 My goal is to specialise in testing and geolocation services
 
-Here are some ideas to get you started:
+- 📸 I love shooting on film cameras 
+- 🍻 Love a good ale with friends
+- 🐶 Dog person
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![Osedoe's github stats](https://github-readme-stats.vercel.app/api?username=osedoe&show_icons=true&theme=onedark)](#)
+[![Osedoe's github stats](https://github-readme-stats.vercel.app/api?username=osedoe&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
