@@ -1,6 +1,6 @@
 ### Hola! My name is Ose 👋
 
-- 🇮🇨 I'm a Guanche developer from Tenerife that currently works at @Nologis
+- 🇮🇨 I'm a Guanche developer from Tenerife
 - 🇬🇧 I'm located somewhere between the Canaries and the UK
 - 🏗️ Most of my work is done with Typescript, React, Node and OpenLayers
 - 🌱 I’m currently learning Python, Data Structures and Algorithms
