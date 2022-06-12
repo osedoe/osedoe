@@ -6,6 +6,8 @@
 - 🏀 Playing around with Rust, Python and AWS
 - 💥 I specialise in testing and good practices
 
+---
+
 - 📸 I shoot on film
 - 🏋️‍♂️ I lift
 - 🏍️ I ride
