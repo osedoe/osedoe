@@ -1,11 +1,14 @@
 ### Hola! My name is Ose 👋
 
-- 🇮🇨 I'm a Guanche developer from Tenerife
-- 🇬🇧 I'm located somewhere between the Canaries and the UK
-- 🏗️ Most of my work is done with Typescript, React, Node and OpenLayers
-- 🌱 I’m currently learning Python, Data Structures and Algorithms
-- 💥 My goal is to specialise in testing and geolocation services
+- 🇮🇨 Guanche developer from Tenerife
+- 🇬🇧 Living currently in Manchester
+- 🏗️ Most of my work is done with Typescript, React, React Native and Node
+- 🏀 Playing around with Rust, Python and AWS
+- 💥 I specialise in testing and good practices
 
-- 📸 I love shooting on film cameras 
-- 🍻 Love a good ale with friends
+- 📸 I shoot on film
+- 🏋️‍♂️ I lift
+- 🏍️ I ride
+- 🌻 I have a lot of plants and not enough at the same time
+- 🍻 Ale _connoisseur_
 - 🐶 Dog person
